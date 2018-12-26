@@ -1,0 +1,12 @@
+1.qiniu vm
+2. domain name  godaddy www.aojiangfan.com
+3. raspberry pi google aiy
+
+
+git vim ruby github 
+
+emacs lisp golang python javascript html css
+
+english  vacabulary 
+
+线性代数 概率与统计  数据结构和算法 

@@ -1,0 +1,6 @@
+# today's work
+1.qiniu cloud 
+2.I can make vm in kvm and use qcow2 to the digitalocean
+3.puma + nginx how to 
+4.debian9 
+5.finish debian-init page

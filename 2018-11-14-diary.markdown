@@ -1,0 +1,41 @@
+6:00-7:00 am meditition (no)
+
+8:00-9:00 passenger + nginx the main config is ngix config
+9:00 rvm need to use bin/shell everytime solved
+10:00 rails deploy solved 
+10:30 focus on the rails code from scratch
+purpose blog 
+1. can render md file
+2. can leave comments
+
+gem mysql2 redcarpet trix better-errors bluma-rails simple-forms bootstrap
+
+must use gem       mysql2 trix simple-forms bootstrap 
+
+group :developement do
+  gem "capistrano", "~> 3.10", require: false
+  gem "capistrano-rails", "~> 1.4", require: false
+end
+
+begin with production mode
+
+use http/2 and letsencrypt https
+
+## must software
+debian freebsd
+vim git emacs ruby lisp golang js front-end shell
+rails vue react 
+mysql postgresql redis json
+## hardware
+raspberry pi arduino system76 amd-apu-7nm
+3d printing
+## everyday
+need write some words about programming 1000 words at least
+
+debian nginx passenger mysql cap after deploy the site will turn to nginx hpmepage  ?
+
+## blog plan
+1. gem mysql2 trix simple-form  bootstrap redcarpet
+2. use the rails guide 
+3. do it from scratch and production 
+
